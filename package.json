@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/neon-profile",
-  "version": "0.11.14",
+  "version": "0.11.15",
   "description": "Neon combinators for the Profile module",
   "keywords": [],
   "homepage": "https://github.com/dashkite/neon-profile#readme",
